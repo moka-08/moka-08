@@ -5,7 +5,7 @@
 
 <p align="center">
 🖥️ Atualmente fazendo curso técnico em informática<br> 
-👾 Estou na programação, mas ela não ta em mim
+👾 Estou na programação, mas ela não tá em mim
 </p>
 
 <p align="center">
