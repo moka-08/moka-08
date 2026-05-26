@@ -1,5 +1,8 @@
-## Oiii, me chamo Mônica 👋
+<h2 align="center">Oiii, me chamo Mônica 👋</h2>
 
-Estou na programação, mas não sou da programação.
+<p align="center">
+</p>
 
-!![gif](https://i.pinimg.com/originals/70/4e/b5/704eb5b5e360c2a209fa6a475bacf9c7.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/70/4e/b5/704eb5b5e360c2a209fa6a475bacf9c7.gif">
+</p>
