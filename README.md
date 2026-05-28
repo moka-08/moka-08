@@ -1,7 +1,5 @@
 
-<h2 align="center"><i>⭐ Oii, ME chamo MÔNICA!!</i> </h2>
-
-
+<h2 align="center"><i> Olá, me chamo Mônica!!</i> </h2>
 
 <p align="center"> <i>
 🖥️ Atualmente fazendo curso técnico em informática<br> 
